@@ -1,0 +1,22 @@
+loguru
+mkdocs
+pip
+python-dotenv
+ruff
+tqdm
+typer
+-e .
+langchain
+langchain-community
+langchain-openai
+langchain-experimental
+streamlist
+pandas
+matplotlib
+seaborn
+pygwalker
+jupiterlab
+tiktoken
+tabulate
+python-dotenv
+langchain-google-genai
